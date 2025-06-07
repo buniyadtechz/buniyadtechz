@@ -56,7 +56,7 @@ Features include audio streaming, chatting, and dynamic playlist management.
 Stay connected with us:
 
 - [Instagram](https://instagram.com/buniyadtechz)
-- [Facebook]([https://facebook.com/buniyadtechz](https://www.facebook.com/profile.php?id=61577281851785))
+- [Facebook](https://www.facebook.com/profile.php?id=61577281851785)
 - [X (Twitter)](https://x.com/buniyadtechz)
 - [Google Business](https://www.google.com/search?q=buniyad+techz)
 

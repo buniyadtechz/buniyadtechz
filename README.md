@@ -68,7 +68,7 @@ Are you a student, fresher, or small business looking to take your first step in
 **Let's build something great — from the Buniyad!**
 
 📧 Reach out at: `buniyadtechz@gmail.com`  
-🌍 Website coming soon...
+🌍 [Website](https://buniyad-portfolio2.vercel.app)
 
 ---
 
